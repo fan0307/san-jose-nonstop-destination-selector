@@ -52,5 +52,5 @@ The "San Jose Nonstop Vacation Destination Selector" is a Python script that pro
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to create a pull request or open an issue.
 
 ## License
-This project is licensed under the MIT License - see the [(LICENSE)](https://en.wikipedia.org/wiki/MIT_License) file for details.
+This project is licensed under the MIT License.
 
